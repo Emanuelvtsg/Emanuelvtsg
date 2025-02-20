@@ -2,7 +2,7 @@
 
 <div align="center">
   <ul>
-    <summary><h1 align="center">Salve! Seja bem vindo ao meu Github!! 👋</h1> </summary>
+    <summary><h1 align="center">Olá! Seja bem vindo ao meu Github!! 👋</h1> </summary>
     
   -----
     
